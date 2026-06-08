@@ -64,3 +64,17 @@ https://archive.ics.uci.edu/ml/datasets/Internet+Advertisements
 ## Repository Contents
 -Advertisement_Analysis.ipynb
 -report.pdf
+
+## Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Decision Tree
+
+![Decision Tree](decision_tree.png)
+
+### DBSCAN Clusterss
+
+![DBSCAN Clusters](dbscan_clusters.png)
